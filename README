@@ -1,0 +1,32 @@
+﻿Android平台发布书籍出售信息的应用
+
+版本：1.0
+
+功能介绍：
+        提供扫描与手动输入添加书籍信息的功能。
+        书籍信息获取自北京科技大学图书馆网站[注1]。
+        信息自动发布到iBeiKe论坛校内交易版块[注2]。
+
+效果：	http://city.ibeike.com/viewthread.php?tid=338679&extra=page%3D1
+
+联系开发者：
+        E-mail: liubinging@gmail.com
+		Blog:   http://unixoss.com/
+		
+License:
+   Copyright [2012] [UnixOSS.com]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+注1:   	北京科技大学图书馆: http://lib.ustb.edu.cn/
+  2:   	iBeiKe论坛:         http://city.ibeike.com/
